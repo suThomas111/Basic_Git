@@ -1,7 +1,7 @@
 ### Basic command of git
 > - git pull(update local from github)  
 > - git push(update github from local git version, so need to commit first)
-> - git rm file_name(刪除檔案，之後要commit)
+> - git rm file_name(刪除檔案，要commit)
 > - git rm -r folder_name(刪除資料夾)
 > - git add(add file want to commit, 把當下檔案的內容複製到暫存區，若add後修改要重新add)  
 > - git add .  
